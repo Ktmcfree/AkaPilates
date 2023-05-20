@@ -21,6 +21,8 @@ Katie has had an evolving twenty four year career as a movement and Pilates teac
 # Experience
 I offer a guided mindful movement workout with emphasis on heightened sensitivity, functional conditioning thereby imagination is a key component. Joseph Pilates and those that carried his teachings worked with spring tension, rhythm-breath, physical function etc. and my practice has been wholly influenced by this legacy and i am deeply grateful for his and all those who have taught the form. I work with Balanced Body equipment and use a variety of props for deepening in specific areas of integrated core connection. While it is a Pilates based workout there is an emphasis on efficiency and autonomy.
 
+![Standing](https://github.com/Ktmcfree/AkaPilates/IMG_9968.jpeg)
+
 ![Standing](https://github.com/Ktmcfree/AkaPilates/blob/a5df15b00b6863c59856787170474bda88dcc0ab/IMG_9968.jpeg)
 
 ![Sitting](https://github.com/Ktmcfree/AkaPilates/blob/a5df15b00b6863c59856787170474bda88dcc0ab/IMG_9970.jpeg)
