@@ -2,8 +2,8 @@ remote_theme: daviddarnes/alembic@main
 plugins:
 - jekyll-remote-theme
 
-title: Yuqi
-description: Some basic examples of client interfaces to a computer vision API
+# title: Yuqi
+# description: Some basic examples of client interfaces to a computer vision API
 
-author:
-  name: Yuqi
+# author:
+#   name: Yuqi
