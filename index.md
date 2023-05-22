@@ -1,9 +1,9 @@
-![Head Photo](IMG_9979.jpeg)
-
 ---
 title: Home
 layout: page
 ---
+
+![Head Photo](IMG_9979.jpeg)
 
 # Contact
 
