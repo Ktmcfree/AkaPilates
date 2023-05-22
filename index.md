@@ -9,6 +9,10 @@ layout: page
 
 Email: ktmcfree@gmail.com
 
+Ten31 Productions
+249 Roosevelt Avenue, Suite 11
+Pawtucket, Rhode Island  02860 
+
 # Cost
 I believe this kind of practice should be for all people so I work with a sliding scale to accommodate various economic circumstances.
 A guidance: 
