@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-![Head Photo](IMG_9979.jpeg)
+![Head Photo](IMG_9979.png)
 
 # Contact
 
@@ -15,6 +15,8 @@ A guidance:
 Hour private: 40/60/80 
 Half hour: 20/30/40
  
+![foot print](IMG_9980.jpeg)
+
 # Bio
 Creating an environment where everyBody can move, condition, release and make a physical home for the constant shifts.
 
