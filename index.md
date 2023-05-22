@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-![Head Photo](IMG_9979.png)
+![Head Photo](C05CD82E-53F2-4967-953E-7B42308A1B71.jpeg)
 
 # Contact
 
