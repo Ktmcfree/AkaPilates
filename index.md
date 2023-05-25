@@ -15,6 +15,7 @@ Pawtucket, Rhode Island  02860
 
 # Cost
 I believe this kind of practice should be for all people so I work with a sliding scale to accommodate various economic circumstances.
+
 A guidance: 
 Hour private: 40/60/80 
 Half hour: 20/30/40
