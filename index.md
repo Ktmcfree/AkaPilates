@@ -29,7 +29,7 @@ Katie has had an evolving twenty four year career as a movement and Pilates teac
 
 # Experience
 ![cat photo](IMG-7716.jpg)
-I offer a guided mindful movement workout with emphasis on heightened sensitivity, imagination and functional conditioning. Joseph Pilates and those that continued his teachings enhanced physical function and healing with spring tension, breath, rhythm, balance and my practice has been highly influenced by this legacy. I work with Balanced Body equipment and use a variety of props for deepening in specific areas and working with each individuals’ needs. While it is a Pilates based workout there is an emphasis on efficiency and autonomy.
+I offer a Pilates-based mindful movement workout with emphasis on heightened sensitivity, imagination and functional conditioning. Joseph Pilates and those that continue his teachings enhanced physical function and healing with spring tension, breath, rhythm, balance and my practice has been highly influenced by this legacy. I work with Balanced Body equipment and use a variety of props for deepening in specific areas and working with each individuals’ needs. While it is a Pilates based workout there is an emphasis on efficiency and autonomy.
 
 ![Standing Pose](IMG_9968.jpeg)
 
