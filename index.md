@@ -7,7 +7,7 @@ layout: page
 
 # Contact
 
-Email: ktmcfree@gmail.com
+Email: akapilates@gmail.com
 
 Ten31 Productions
 249 Roosevelt Avenue, Suite 11
