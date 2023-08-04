@@ -4,8 +4,12 @@ layout: page
 ---
 
 ![Head Photo](C05CD82E-53F2-4967-953E-7B42308A1B71.jpeg)
+insert your photo as the format above
+![phto display name](photo_filename.jpeg)
 
 # Contact
+
+edit your contact here.
 
 Email: akapilates@gmail.com
 
