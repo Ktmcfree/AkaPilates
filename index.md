@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-![Head Photo](C05CD82E-53F2-4967-953E-7B42308A1B71.jpeg)
+![Swan Photo](IMG_0856.jpeg)
 insert your photo as the format above
 ![phto display name](photo_filename.jpeg)
 
